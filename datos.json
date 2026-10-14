@@ -1,0 +1,28 @@
+{
+  "docentes": [
+    {
+      "nombre": "Leonardo",
+      "apellido": "Mule",
+      "usuario": "Profe_Leo",
+      "salt": "oJAi594thYSmvVguABez7Q==",
+      "hash": "8usM0lmmjmIvkzPQeAxN39+xqtoBd6Kz23+0WHPA/x4="
+    }
+  ],
+  "estudiantes": [],
+  "preguntas": [
+    {
+      "id": 1,
+      "grupo": "9no 1",
+      "enunciado": "¿Cómo se crea una variable en Python?",
+      "opciones": [
+        "1nombre = \"Luis\"",
+        "1_nombre = Luís",
+        "nombre_1 = \"Luis\"",
+        "str nombre: \"Luis\""
+      ],
+      "correcta": 2
+    }
+  ],
+  "resultados": [],
+  "siguienteId": 2
+}
