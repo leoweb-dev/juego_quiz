@@ -21,8 +21,20 @@
         "str nombre: \"Luis\""
       ],
       "correcta": 2
+    },
+    {
+      "id": 2,
+      "grupo": "9no 1",
+      "enunciado": "¿Qué tipo de dato es \"Hola Python!\"",
+      "opciones": [
+        "str",
+        "int",
+        "float",
+        "bool"
+      ],
+      "correcta": 0
     }
   ],
   "resultados": [],
-  "siguienteId": 2
+  "siguienteId": 3
 }
